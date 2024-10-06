@@ -1,0 +1,58 @@
+---
+title: "30538 Problem Set 2: Parking Tickets"
+author: "you"
+date: "the date"
+format: 
+    html: 
+        code-overflow: wrap
+execute:
+  eval: false 
+  echo: false
+---
+
+```{python}
+import pandas as pd
+import altair as alt
+import time
+
+import warnings 
+warnings.filterwarnings('ignore')
+```
+
+## Data cleaning continued (15 points)
+
+1.  
+2.      
+3.  
+4. 
+
+## Revenue increase from "missing city sticker" tickets (20 Points)
+
+1.
+2. 
+3. 
+4.
+5.
+6.
+
+## Headlines and sub-messages (20 points)
+
+1. 
+2. 
+3. 
+
+## Understanding the structure of the data and summarizing it (Lecture 5, 20 Points)
+
+1. 
+2.
+3.
+
+## Multi-view Composition (15 Points)
+
+1. 
+2. 
+
+## Extra Credit (max 5 points)
+
+1. 
+2. 
