@@ -10,6 +10,16 @@ execute:
   echo: false
 ---
 
+1. "This submission is my work alone and complies with the 30538 integrity
+policy." Add your initials to indicate your agreement: \*\*\_YW\_\*\*
+2. "I have uploaded the names of anyone I worked with on the problem set **[here](https://docs.google.com/forms/d/1-zzHx762odGlpVWtgdIC55vqF-j3gqdAp6Pno1rIGK0/edit)**"  \*\*\_Yes\_\*\* (1 point)
+3. Late coins used this pset: \*\*\_1\_*\* Late coins left after submission: \*\*\_3\_*\*
+4. Knit your `ps1.qmd` to make `ps1.pdf`. 
+    * The PDF should not be more than 25 pages. Use `head()` and re-size figures when appropriate. 
+5. Push  `ps1.qmd` and `ps1.pdf` to your github repo. It is fine to use Github Desktop.
+6. Submit `ps1.pdf` via Gradescope (4 points) 
+7. Tag your submission in Gradescope
+
 ```{python}
 import pandas as pd
 import altair as alt
