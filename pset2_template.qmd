@@ -11,9 +11,9 @@ format:
 ---
 
 1. "This submission is my work alone and complies with the 30538 integrity
-policy." Add your initials to indicate your agreement: \*\*\_\_\*\*
-2. "I have uploaded the names of anyone I worked with on the problem set **[here](https://docs.google.com/forms/d/1-zzHx762odGlpVWtgdIC55vqF-j3gqdAp6Pno1rIGK0/edit)**"  \*\*\_\_\*\* (1 point)
-3. Late coins used this pset: \*\*\_\_*\* Late coins left after submission: \*\*\_\_*\*
+policy." Add your initials to indicate your agreement: \*\*\_WS\_\*\*
+2. "I have uploaded the names of anyone I worked with on the problem set **[here](https://docs.google.com/forms/d/1-zzHx762odGlpVWtgdIC55vqF-j3gqdAp6Pno1rIGK0/edit)**"  \*\*\_WS\_\*\* (1 point)
+3. Late coins used this pset: \*\*\_0\_*\* Late coins left after submission: \*\*\_4\_*\*
 4. Knit your `ps2.qmd` to make `ps2.pdf`. 
     * The PDF should not be more than 25 pages. Use `head()` and re-size figures when appropriate. 
 5. Push  `ps2.qmd` and `ps2.pdf` to your github repo. It is fine to use Github Desktop.
@@ -32,7 +32,12 @@ warnings.filterwarnings('ignore')
 
 ## Data cleaning continued (15 points)
 
-1.  
+1.**(For each column, how many rows are NA? Write a function which returns a two column
+data frame where each row is a variable, the first column of the data frame is the name
+of each variable, and the second column of the data frame is the number of times that
+the column is NA. Test your function. Then, report the results applied to the parking
+tickets data frame. There are several ways to do this, but we haven’t covered them yet
+in class, so you will need to work independently to set this up.)**
 2.      
 3.  
 4. 
